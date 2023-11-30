@@ -1,0 +1,35 @@
+name: home_page_umkt
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.2.1 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo_umkt.png
+    - assets/folder.png
+    - assets/coin.png
+    - assets/hrd.png
+    - assets/apple.png
+    - assets/sarpras.png
+    - assets/email.png
+    - assets/paperless.png
+    - assets/trophy.jpg
+    - assets/grad.png
+    - assets/analytic.png
+    - assets/microscope.png
+    - assets/audit.png
+    - assets/checklist.png
+    - assets/clipboard.png
